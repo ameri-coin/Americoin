@@ -1,0 +1,9 @@
+Building Americoin
+
+See doc/readme-qt.rst for instructions on building Americoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Americoin.
+
+See doc/build-*.txt for instructions on building americoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Americoin.
